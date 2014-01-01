@@ -1,0 +1,5 @@
+## Interface: 50400
+## Title: ChatAlphaZero
+## Version: v5.4
+## Notes: Removes the chat background fade in.
+ChatAlphaZero.lua
