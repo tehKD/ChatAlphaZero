@@ -1,5 +1,5 @@
-## Interface: 50400
+## Interface: 60000
 ## Title: ChatAlphaZero
-## Version: v5.4
+## Version: v6.0 WoD Beta
 ## Notes: Removes the chat background fade in.
 ChatAlphaZero.lua
