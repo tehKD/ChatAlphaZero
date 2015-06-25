@@ -1,5 +1,5 @@
-## Interface: 60100
+## Interface: 60200
 ## Title: ChatAlphaZero
-## Version: v6.1
+## Version: v6.2
 ## Notes: Removes the chat background fade in.
 ChatAlphaZero.lua
