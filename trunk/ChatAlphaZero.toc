@@ -1,5 +1,9 @@
-## Interface: 60200
+## Interface: 70000
 ## Title: ChatAlphaZero
-## Version: v6.2
+## Version: v7.0
 ## Notes: Removes the chat background fade in.
+## X-Curse-Packaged-Version: r6
+## X-Curse-Project-Name: ChatAlphaZero
+## X-Curse-Project-ID: chatalphazero
+## X-Curse-Repository-ID: wow/chatalphazero/mainline
 ChatAlphaZero.lua
