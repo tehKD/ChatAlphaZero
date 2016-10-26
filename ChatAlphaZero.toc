@@ -1,6 +1,6 @@
-## Interface: 70000
+## Interface: 70100
 ## Title: ChatAlphaZero
-## Version: v7.0
+## Version: v7.1
 ## Notes: Removes the chat background fade in.
 ## X-Curse-Packaged-Version: r6
 ## X-Curse-Project-Name: ChatAlphaZero
