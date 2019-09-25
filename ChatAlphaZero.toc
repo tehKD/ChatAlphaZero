@@ -1,6 +1,6 @@
-## Interface: 80200
+## Interface: 80205
 ## Title: ChatAlphaZero
-## Version: v8.2
+## Version: v8.2.5
 ## Notes: Removes the chat background fade in.
 ## X-Curse-Packaged-Version: r6
 ## X-Curse-Project-Name: ChatAlphaZero
