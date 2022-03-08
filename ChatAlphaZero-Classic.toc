@@ -1,5 +1,5 @@
-## Interface: 11401
+## Interface: 11402
 ## Title: ChatAlphaZero
-## Version: v1.14.1
+## Version: v1.14.2
 ## Notes: Removes the chat background fade in.
 ChatAlphaZero.lua
