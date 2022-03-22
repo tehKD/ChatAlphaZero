@@ -1,6 +1,6 @@
 ## Interface: 90200
 ## Title: ChatAlphaZero
-## Version: 1.1.7
+## Version: @project-version@
 ## Author: tehKD
 ## Notes: Removes the chat background fade in.
 ## X-Curse-Project-ID: 71709

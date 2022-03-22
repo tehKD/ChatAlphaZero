@@ -1,6 +1,6 @@
-## Interface: 20503
+## Interface: 20504
 ## Title: ChatAlphaZero
-## Version: 1.1.7
+## Version: @project-version@
 ## Author: tehKD
 ## Notes: Removes the chat background fade in.
 ChatAlphaZero.lua
