@@ -1,8 +1,5 @@
-## Interface: 90207
-## Version: v1.2.0
+## Interface: 100000
+## Version: v1.3.0
 ## Title: ChatAlphaZero
 ## Notes: Removes the chat background fade in.
-## X-Curse-Project-ID: 71709
-## X-WoWI-ID: 25359
-## X-Wago-ID: WYK9nVGL
 ChatAlphaZero.lua

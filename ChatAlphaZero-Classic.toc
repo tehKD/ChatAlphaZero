@@ -1,5 +1,6 @@
 ## Interface: 11403
-## Version: v1.2.0
-## Title: ChatAlphaZero
-## Notes: Removes the chat background fade in.
-ChatAlphaZero.lua
+## Version: v1.3.0
+## Title: InspectKeybinding
+## Notes: Adds a keybinding for inspecting your target.
+InspectKeybinding.lua
+bindings.xml
