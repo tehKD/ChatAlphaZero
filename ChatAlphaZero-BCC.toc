@@ -1,5 +1,5 @@
 ## Interface: 20504
-## Version: v1.3.0
+## Version: v1.3.1
 ## Title: InspectKeybinding
 ## Notes: Adds a keybinding for inspecting your target.
 InspectKeybinding.lua

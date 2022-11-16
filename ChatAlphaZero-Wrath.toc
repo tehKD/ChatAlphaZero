@@ -1,5 +1,5 @@
 ## Interface: 30400
-## Version: v1.3.0
+## Version: v1.3.1
 ## Title: ChatAlphaZero
 ## Notes: Removes the chat background fade in.
 ChatAlphaZero.lua
