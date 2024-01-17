@@ -1,5 +1,5 @@
-## Interface: 100105
-## Version: v1.3.7
+## Interface: 100205
+## Version: v1.4.3
 ## Title: ChatAlphaZero
 ## Notes: Removes the chat background fade in.
 ## IconTexture: 1500870
